@@ -1,1 +1,29 @@
+<<<<<<< HEAD
 Face-burger
+=======
+Tal Michel: Dancing in the moonlight.
+
+
+
+
+Jonatan Kruszewski: Oops, I did it again.
+
+
+Anastasiia: Show must go on,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 291494d4296d6a79a472fedc3b33b5434d87b9c8
